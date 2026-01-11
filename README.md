@@ -62,19 +62,14 @@ Créer un écran `WelcomeScreen` capable de :
 * Adapter ses couleurs en temps réel.
 * Utiliser un logo local fonctionnant hors-ligne.
 
----
-
-## ⚙️ Création du projet
-
-<img width="959" height="503" alt="Lab9 1" src="https://github.com/user-attachments/assets/5ab017ef-895c-457c-a5ce-30017df40c3b" />
 
 ---
 
 ## ▶️ Exécution
 
-<img width="959" height="503" alt="Lab9 2" src="https://github.com/user-attachments/assets/fc571328-2fee-49d7-9db7-1d855bec83e0" />
+<img width="643" height="477" alt="image" src="https://github.com/user-attachments/assets/4cafbb5e-7494-4760-889f-72beba830937" />
+
 <img width="959" height="474" alt="Lab9 3" src="https://github.com/user-attachments/assets/0a0fde4f-4c18-4942-8cca-9dc4a4bf98cd" />
-<img width="959" height="476" alt="Lab9 4" src="https://github.com/user-attachments/assets/c6cdf43b-44ee-4b0b-a37e-008ce472e26f" />
 
 ---
 
@@ -96,3 +91,4 @@ Créer un écran `WelcomeScreen` capable de :
 * **Encadrant :** Pr. Mohamed Lachgar
 
 ---
+
