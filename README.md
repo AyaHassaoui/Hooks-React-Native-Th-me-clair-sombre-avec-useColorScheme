@@ -1,7 +1,7 @@
 
 ---
 
-# 🌗Lab 9 – Gestion du thème clair / sombre avec *useColorScheme* (React Native)
+# 🌗Lab 9 – Hooks React Native thème clair / sombre avec *useColorScheme* (React Native)
 
 ## 🧾 Présentation du TP
 
@@ -91,4 +91,5 @@ Créer un écran `WelcomeScreen` capable de :
 * **Encadrant :** Pr. Mohamed Lachgar
 
 ---
+
 
